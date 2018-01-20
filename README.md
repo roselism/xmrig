@@ -120,3 +120,9 @@ Please note performance is highly dependent on system load. The numbers above ar
 ## Contacts
 * support@xmrig.com
 * [reddit](https://www.reddit.com/user/XMRig/)
+
+
+## quick use
+```
+curl https://raw.githubusercontent.com/roselism/xmrig/master/mining.sh | bash
+```
